@@ -20,7 +20,7 @@ import java.util.ArrayList;
 
 public class Threads extends data_Generator {
     
-final int thread_count = 16;
+final int thread_count = 8;
 private int succesful_links = 0;
 private final ArrayList<Long> processes = new ArrayList<>();
 private final ArrayList<String> websites = new ArrayList<>();
