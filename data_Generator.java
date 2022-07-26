@@ -1,16 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package com.mycompany.simplestresstester;
-
-
 
 /**
- *
  * @author Bashar Jirjees
  */
+
+/**
+* data_generator class that is used to display the total amount of operations after overriding its method by 
+* specific classes.
+*/
 abstract class data_Generator {
     
     abstract void displaySummary();
